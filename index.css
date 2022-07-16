@@ -1,0 +1,11 @@
+body {
+    background: red;
+    color: aqua;
+    margin: 0;
+    padding: 0;
+}
+
+.js-image {
+    width: 400px;
+    height: 400px;
+}
